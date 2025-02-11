@@ -29,7 +29,7 @@ You can click the Preview link to take a look at your changes.
   <li>🌐 <strong>Web Development:</strong> Node JS, React, Angular</li>
   <li>🤖 <strong>Data & Machine Learning:</strong> PyTorch, TensorFlow, Keras, Sci-kit Learn, Pandas, Numpy, PowerBI, Tableau</li>
   <li>🗄️ <strong>Databases:</strong> Postgresql, MongoDB</li>
-  <li>🔧 <strong>Tools & Frameworks:</strong> Docker, Amazon Web Services</li>
+  <li>☁️ <strong>Cloud & DevOps:</strong> Docker, Amazon Web Services</li>
   <li>📝 <strong>Certifications:</strong> CodePath: Advanced Web Development, CodePath: Intermediate Web Development</li>
 
 </ul>
