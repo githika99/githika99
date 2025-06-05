@@ -39,13 +39,11 @@ You can click the Preview link to take a look at your changes.
 <h2>📚 Notable Projects</h2>
 
 <ul>
-  <!---
   <li>
-    <h3><a href="https://github.com/audsostrom/gdsc-legal-app">Immigrant Law App</a></h3>
-    <p>Led a team in developing an Angular app to inform US immigrants of their rights.</p>
-    <p><strong>Features:</strong> Map page with Google Maps API to view nearby resources, Information translated into Spanish and Arabic.</p>
+    <h3><a href="https://github.com/githika99/data_mining">Health Care Access Disparity Analysis</a></h3>
+    <p>Analyzed key factors contributing to inadequate health care access among Americans using statistical and machine learning techniques.</p>
+    <p><strong>Features:</strong> Data Cleaning, Feature Encoding, Principle Component Analysis, Decision Trees, and Chi-Square Hypothesis Testing to identify significant predictors.</p>
   </li>
-  -->
   <li>
     <h3><a href="https://github.com/audsostrom/gdsc-legal-app">Immigrant Law App</a></h3>
     <p>Led a team in developing an Angular app to inform US immigrants of their rights.</p>
