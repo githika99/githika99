@@ -40,7 +40,7 @@ You can click the Preview link to take a look at your changes.
 
 <ul>
   <li>
-    <h3><a href="https://github.com/project-terraforma/Heuristics_to_Resolve_Conflicting_Attributes/tree/main">Comparing Datasets to Improve Overture Map Name Accuracy</a></h3>
+    <h3><a href="https://github.com/project-terraforma/Heuristics_to_Resolve_Conflicting_Attributes/tree/main">Improving Business Name Accuracy in Overture Maps</a></h3>
     <p>This project helps improve the accuracy of business names in Overture Maps by comparing Overture data with user-provided datasets. It uses heuristics and automated analysis to resolve conflicts between different data sources, ensuring more reliable map information.</p>
     <p><strong>Features:</strong>Streamlit app for interactive data uploads and comparisons, GPT-3.5 Turbo via DSPy for intelligent conflict resolution, and automatic detection of mismatches in names, locations, and attributes.</p>
   </li>
