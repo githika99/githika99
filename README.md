@@ -40,6 +40,11 @@ You can click the Preview link to take a look at your changes.
 
 <ul>
   <li>
+    <h3><a href="https://github.com/project-terraforma/Heuristics_to_Resolve_Conflicting_Attributes/tree/main">Comparing Datasets to Improve Overture Map Name Accuracy</a></h3>
+    <p>This project helps improve the accuracy of business names in Overture Maps by comparing Overture data with user-provided datasets. It uses heuristics and automated analysis to resolve conflicts between different data sources, ensuring more reliable map information.</p>
+    <p><strong>Features:</strong>Streamlit app for interactive data uploads and comparisons, GPT-3.5 Turbo via DSPy for intelligent conflict resolution, and automatic detection of mismatches in names, locations, and attributes.</p>
+  </li>
+  <li>
     <h3><a href="https://github.com/githika99/data_mining">Health Care Access Disparity Analysis</a></h3>
     <p>Analyzed key factors contributing to inadequate health care access among Americans using statistical and machine learning techniques.</p>
     <p><strong>Features:</strong> Data Cleaning, Feature Encoding, Principle Component Analysis, Decision Trees, and Chi-Square Hypothesis Testing to identify significant predictors.</p>
