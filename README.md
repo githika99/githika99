@@ -47,7 +47,7 @@ You can click the Preview link to take a look at your changes.
   <li>
     <h3><a href="https://github.com/githika99/data_mining">SWAN Women’s Health Care Access Disparity Analysis</a></h3>
     <p>Analyzed SWAN (Study of Women Across the Nation) data to identify factors linked to inadequate health care access among midlife women in the U.S., using statistical and machine learning techniques to uncover key demographic and socioeconomic predictors.</p>
-    <p><strong>Features:</strong> Data Cleaning, Feature Encoding, Principle Component Analysis, Decision Trees, and Chi-Square Hypothesis Testing to identify significant predictors.</p>
+    <p><strong>Features:</strong> Data Cleaning, Feature Encoding, Principal Component Analysis, Decision Trees, and Chi-Square Hypothesis Testing to identify significant predictors.</p>
   </li>
   <li>
     <h3><a href="https://github.com/audsostrom/gdsc-legal-app">Immigrant Law App</a></h3>
@@ -57,7 +57,7 @@ You can click the Preview link to take a look at your changes.
   <li>
     <h3><a href="https://github.com/githika99/stat_project">Private vs. State Prison Spending Analysis</a></h3>
     <p>Investigates how spending differs between privately-run and state-run prisons, using publicly available datasets to compare expenditures, population trends, and resource allocation. Uncovered financial patterns and disparities that may impact prison operations and inmate outcomes.</p>
-    <p><strong>Features:</strong> Data preprocessing pipeline (csv parsing) for inconsistent public records, Exploratory Data Analysis, Principle Component Analysis, Binomial/Multinomial Regression</p>
+    <p><strong>Features:</strong> Data preprocessing pipeline (csv parsing) for inconsistent public records, Exploratory Data Analysis, Principal Component Analysis, Binomial/Multinomial Regression</p>
   </li>
  <li>
     <h3><a href="https://github.com/githika99/Systems/tree/main/MultiThreadedServer">Multi Threaded HTTP Server</a></h3>
