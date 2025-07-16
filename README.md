@@ -45,8 +45,8 @@ You can click the Preview link to take a look at your changes.
     <p><strong>Features:</strong>Streamlit app for interactive data uploads and comparisons, GPT-3.5 Turbo via DSPy for intelligent conflict resolution, and automatic detection of mismatches in names, locations, and attributes.</p>
   </li>
   <li>
-    <h3><a href="https://github.com/githika99/data_mining">Health Care Access Disparity Analysis</a></h3>
-    <p>Analyzed key factors contributing to inadequate health care access among Americans using statistical and machine learning techniques.</p>
+    <h3><a href="https://github.com/githika99/data_mining">SWAN Women’s Health Care Access Disparity Analysis</a></h3>
+    <p>Analyzed SWAN (Study of Women Across the Nation) data to identify factors linked to inadequate health care access among midlife women in the U.S., using statistical and machine learning techniques to uncover key demographic and socioeconomic predictors.</p>
     <p><strong>Features:</strong> Data Cleaning, Feature Encoding, Principle Component Analysis, Decision Trees, and Chi-Square Hypothesis Testing to identify significant predictors.</p>
   </li>
   <li>
