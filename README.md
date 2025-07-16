@@ -54,6 +54,11 @@ You can click the Preview link to take a look at your changes.
     <p>Led a team in developing an Angular app to inform US immigrants of their rights.</p>
     <p><strong>Features:</strong> Map page with Google Maps API to view nearby resources, Information translated into Spanish and Arabic.</p>
   </li>
+  <li>
+    <h3><a href="https://github.com/githika99/stat_project">Private vs. State Prison Spending Analysis</a></h3>
+    <p>Investigates how spending differs between privately-run and state-run prisons, using publicly available datasets to compare expenditures, population trends, and resource allocation. Uncovered financial patterns and disparities that may impact prison operations and inmate outcomes.</p>
+    <p><strong>Features:</strong> Data preprocessing pipeline (csv parsing) for inconsistent public records, Exploratory Data Analysis, Principle Component Analysis, Binomial/Multinomial Regression</p>
+  </li>
  <li>
     <h3><a href="https://github.com/githika99/Systems/tree/main/MultiThreadedServer">Multi Threaded HTTP Server</a></h3>
     <p>Leveraged a pool thread design to create a highly efficient HTTP server for any number of threads in C.</p>
